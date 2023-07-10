@@ -17,7 +17,8 @@ const Header = () => {
         </h1>
         <a
           href="#"
-          className={`${styles.btn} ${styles.btn_white} ${styles.btn_animated}`}>
+          className={`${styles.btn} ${styles.btn_white} ${styles.btn_animated}`}
+        >
           Thapa Technical
         </a>
       </div>
